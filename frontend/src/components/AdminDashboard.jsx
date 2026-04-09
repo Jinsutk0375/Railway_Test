@@ -1,6 +1,8 @@
 import React from 'react';
 import { ShieldAlert, CheckCircle, XCircle } from 'lucide-react';
 
+<h1 style={{color:"red"}}>NEW VERSION LOADED</h1>
+
 export default function AdminDashboard({ tracks }) {
   const BACKEND_URL =
     import.meta.env.VITE_BACKEND_URL ||
