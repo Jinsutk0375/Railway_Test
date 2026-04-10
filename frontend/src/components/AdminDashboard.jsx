@@ -22,7 +22,7 @@ export default function AdminDashboard({ tracks }) {
 
   return (
     <div className="glass-card">
-      <h1 style={{color:"red"}}>NEW VERSION LOADED</h1>
+      {/* <h1 style={{color:"red"}}>NEW VERSION LOADED</h1> */}
       <div className="admin-header">
         <div>
           <h2 style={{ fontSize: '1.5rem', fontWeight: 'bold' }}>
